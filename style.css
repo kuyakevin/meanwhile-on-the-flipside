@@ -8,10 +8,15 @@ body h1{
 body h2 {
     background-color: black;
     width: fit-content;
+    color:white;
 }
 
 body p {
     width: 700px;
     font-size: 15px;
     background-color: black;
+}
+
+body src {
+    color:white;
 }
